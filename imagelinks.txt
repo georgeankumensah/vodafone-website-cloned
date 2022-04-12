@@ -1,0 +1,4 @@
+girl = "https://da3ryzted2bbn.cloudfront.net/assets/img/further-together-1334x576.webp"
+family left = "https://d2wrz230yyz3cg.cloudfront.net/img/devices-tile.webp"
+family big right ="https://d2wrz230yyz3cg.cloudfront.net/img/broadband-tile.webp"
+kalybos = "https://d2wrz230yyz3cg.cloudfront.net/img/bundle-offer-tile.webp"
